@@ -9,3 +9,8 @@ https://github.com/huaxz1986/APUE_notes
  Poker
  https://www.continuum.io/downloads
  https://sourceforge.net/projects/partypoker-pokerstars-pokerbot/
+
+
+
+Blogs:
+https://www.artima.com/weblogs/
